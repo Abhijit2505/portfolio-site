@@ -749,7 +749,7 @@ section {
 }
 
 .services .iconbox-blue i {
-  color: #47aeff;
+  color: #8040FF;
 }
 
 .services .iconbox-blue:hover .icon i {
@@ -757,7 +757,7 @@ section {
 }
 
 .services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
+  fill: #8040FF;
 }
 
 .services .iconbox-orange i {
